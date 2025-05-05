@@ -1,0 +1,39 @@
+# Data directories
+data/
+data/processed/
+data/raw/
+data/interim/
+data/external/
+
+# Model directories
+models/
+models/spark/
+models/numpy/
+
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS files
+.DS_Store 
